@@ -8,4 +8,7 @@ class FOneClickLangChangeModule : public IModuleInterface
 public:
     virtual void StartupModule() override;
     virtual void ShutdownModule() override;
+    
+    TSharedPtr<class FUICommandList> PluginCommands;
 };
+

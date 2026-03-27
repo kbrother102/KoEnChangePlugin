@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0",
+	"Version": 1.1,
+	"VersionName": "1.1",
 	"FriendlyName": "LangChangePlugin",
-	"Description": "클릭한번으로 한/영을 오갈수 있는 버튼 플러그인",
+	"Description": "클릭한번으로 한/영을 오갈수 있는 버튼 플러그인 1.1버전 단축키추가",
 	"Category": "Sparta",
 	"CreatedBy": "KHB",
 	"CreatedByURL": "",
