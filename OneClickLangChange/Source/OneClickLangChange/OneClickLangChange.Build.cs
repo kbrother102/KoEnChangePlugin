@@ -24,7 +24,8 @@ public class OneClickLangChange : ModuleRules
                 "ToolMenus", // 툴바 제어용
                 "Slate", // UI 기본
                 "SlateCore", // UI 코어
-                "InputCore" //단축키를 위한 모듈
+                "InputCore", //단축키를 위한 모듈
+                "MainFrame" //에디터 전역에서 사용
             });
         }
     }
