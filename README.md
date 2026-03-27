@@ -5,8 +5,7 @@
 맨날 프로젝트세팅켜고 언어설정 찾고.. 바꾸고.. 다시 또 가서 바꾸고.. 여간 귀찮은게 아니다.
 
 원클릭으로 한/영 전환을 할 수 있도록 만들었다.
-
-<img width="1049" height="226" alt="Image" src="https://github.com/user-attachments/assets/6ea2a88c-e03b-48f9-a025-c9f1d182ca50" />
+<img width="1049" height="226" alt="Image" src="https://github.com/user-attachments/assets/80cda9eb-9a5b-4ccd-b2e4-69b257443f94" />
 
 기본 단축키 Alt+L
 
